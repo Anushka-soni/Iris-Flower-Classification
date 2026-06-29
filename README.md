@@ -66,7 +66,7 @@ Iris-Flower-Classification/
 Clone the repository:
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/Anushka-soni/Iris-Flower-Classification.git 
 ```
 
 Move into the project folder:
